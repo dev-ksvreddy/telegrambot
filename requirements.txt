@@ -1,0 +1,4 @@
+instaloader==4.14
+python-telegram-bot==21.10
+Requests==2.32.3
+yt_dlp==2024.12.23
